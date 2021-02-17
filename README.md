@@ -1,4 +1,4 @@
-# BDAM Angular Firebase Challengeweek
+# Hoogachtende Roland,
 Dit project bestaat uit de volgende stukken software: 
 - Angular project (Scoreboard, Admin paneel en battle applicatie)
 - NodeJS applicatie (Raspberry PI RFID lezer en schrijver)
